@@ -9,15 +9,15 @@ function Header() {
     };
 
     return (
-        <nav className="fixed top-0 left-0 w-full bg-[#3cbc56] p-4 px-8 z-10">
+        <nav className="fixed top-0 left-0 w-full bg-[#a4c639] p-4 px-8 z-10">
           <div className="container mx-auto flex justify-between items-center">
             {/* Logo or Brand */}
             <div className="text-white text-xl font-bold">Logo</div>
     
             {/* Navigation Links - visible on large screens */}
             <div className="hidden md:flex space-x-4">
-              <a href="#" className="text-white hover:text-gray-300">Home</a>
-              <a href="#" className="text-white hover:text-gray-300">Service</a>
+              <a href="/" className="text-white hover:text-gray-300">Home</a>
+              <a href="/services" className="text-white hover:text-gray-300">Service</a>
               <a href="#" className="text-white hover:text-gray-300">Portfolio</a>
               <a href="#" className="text-white hover:text-gray-300">Contact</a>
               <a href="#" className="text-white hover:text-gray-300">Language</a>
