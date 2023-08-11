@@ -8,84 +8,84 @@
             "year" : "2016",
             "images" : [
                 {
-                    "imageId" : "0",
-                    "image_name" : "IMG_6101",
-                    "image_path" : "../NATO-2016/IMG_6101.JPG"
-                },
-                {
-                    "imageId" : "1",
+                    "imageId" : 1,
                     "image_name" : "IMG_6103",
                     "image_path" : "../NATO-2016/IMG_6103.JPG"
                 },
                 {
-                    "imageId" : "2",
+                    "imageId" : 2,
                     "image_name" : "IMG_6322",
                     "image_path" : "../NATO-2016/IMG_6322.JPG"
                 },
                 {
-                    "imageId" : "3",
+                    "imageId" : 3,
                     "image_name" : "IMG_6323",
                     "image_path" : "../NATO-2016/IMG_6323.JPG"
                 },
                 {
-                    "imageId" : "4",
+                    "imageId" : 4,
                     "image_name" : "IMG_6329",
                     "image_path" : "../NATO-2016/IMG_6329.JPG"
                 },
                 {
-                    "imageId" : "5",
+                    "imageId" : 5,
                     "image_name" : "IMG_6330",
                     "image_path" : "../NATO-2016/IMG_6330.JPG"
                 },
                 {
-                    "imageId" : "6",
+                    "imageId" : 6,
                     "image_name" : "IMG_6331",
                     "image_path" : "../NATO-2016/IMG_6331.JPG"
                 },
                 {
-                    "imageId" : "7",
+                    "imageId" : 7,
                     "image_name" : "IMG_6332",
                     "image_path" : "../NATO-2016/IMG_6332.JPG"
                 },
                 {
-                    "imageId" : "8",
+                    "imageId" : 8,
                     "image_name" : "IMG_6333",
                     "image_path" : "../NATO-2016/IMG_6333.JPG"
                 },
                 {
-                    "imageId" : "9",
+                    "imageId" : 9,
                     "image_name" : "IMG_6334",
                     "image_path" : "../NATO-2016/IMG_6334.JPG"
                 },
                 {
-                    "imageId" : "10",
+                    "imageId" : 10,
                     "image_name" : "IMG_6335",
                     "image_path" : "../NATO-2016/IMG_6335.JPG"
                 },
                 {
-                    "imageId" : "11",
+                    "imageId" : 11,
                     "image_name" : "IMG_6336",
                     "image_path" : "../NATO-2016/IMG_6336.JPG"
                 },
                 {
-                    "imageId" : "12",
+                    "imageId" : 12,
                     "image_name" : "IMG_6337",
                     "image_path" : "../NATO-2016/IMG_6337.JPG"
                 },
                 {
-                    "imageId" : "13",
+                    "imageId" : 13,
                     "image_name" : "IMG_6338",
                     "image_path" : "../NATO-2016/IMG_6338.JPG"
                 },
                 {
-                    "imageId" : "14",
+                    "imageId" : 14,
                     "image_name" : "IMG_6343",
                     "image_path" : "../NATO-2016/IMG_6343.JPG"
                 },
                 {
-                    "imageId" : "15",
+                    "imageId" : 15,
                     "image_name" : "IMG_6352",
                     "image_path" : "../NATO-2016/IMG_6352.JPG"
+                },
+                {
+                    "imageId" : 16,
+                    "image_name" : "IMG_6101",
+                    "image_path" : "../NATO-2016/IMG_6101.JPG"
                 }
             ],
 
@@ -100,64 +100,64 @@
             "year" : "2017",
             "images" : [
                 {
-                    "imageId" : "0",
-                    "image_name" : "IMG_0310",
-                    "image_path" : "../diplomatsDay/IMG_0310.JPG"
-                },
-                {
-                    "imageId" : "1",
+                    "imageId" : 1,
                     "image_name" : "IMG_0311",
                     "image_path" : "../diplomatsDay/IMG_0311.JPG"
                 },
                 {
-                    "imageId" : "2",
+                    "imageId" : 2,
                     "image_name" : "IMG_0357",
                     "image_path" : "../diplomatsDay/IMG_0357.JPG"
                 },
                 {
-                    "imageId" : "3",
+                    "imageId" : 3,
                     "image_name" : "IMG_0360",
                     "image_path" : "../diplomatsDay/IMG_0360.JPG"
                 },
                 {
-                    "imageId" : "4",
+                    "imageId" : 4,
                     "image_name" : "IMG_0373",
                     "image_path" : "../diplomatsDay/IMG_0373.JPG"
                 },
                 {
-                    "imageId" : "5",
+                    "imageId" : 5,
                     "image_name" : "IMG_0386",
                     "image_path" : "../diplomatsDay/IMG_0386.JPG"
                 },
                 {
-                    "imageId" : "6",
+                    "imageId" : 6,
                     "image_name" : "IMG_0388",
                     "image_path" : "../diplomatsDay/IMG_0388.JPG"
                 },
                 {
-                    "imageId" : "7",
+                    "imageId" : 7,
                     "image_name" : "IMG_1216",
                     "image_path" : "../diplomatsDay/IMG_1216.JPG"
                 },
                 {
-                    "imageId" : "8",
+                    "imageId" : 8,
                     "image_name" : "IMG_1307",
                     "image_path" : "../diplomatsDay/IMG_1307.JPG"
                 },
                 {
-                    "imageId" : "9",
+                    "imageId" : 9,
                     "image_name" : "IMG_1628",
                     "image_path" : "../diplomatsDay/IMG_1628.JPG"
                 },
                 {
-                    "imageId" : "10",
+                    "imageId" : 10,
                     "image_name" : "IMG_6329",
                     "image_path" : "../diplomatsDay/IMG_6329.JPG"
                 },
                 {
-                    "imageId" : "11",
+                    "imageId" : 11,
                     "image_name" : "IMG_8521",
                     "image_path" : "../diplomatsDay/IMG_8521.JPG"
+                },
+                {
+                    "imageId" : 12,
+                    "image_name" : "IMG_0310",
+                    "image_path" : "../diplomatsDay/IMG_0310.JPG"
                 }
             ],
             "description" : ""
@@ -170,11 +170,6 @@
             "location" : "",
             "year" : "2018",
             "images" : [
-                {
-                    "id" : 0,
-                    "image_name" : "IMG_0313",
-                    "image_path" : "../eventCeremony/IMG_0313.JPG"
-                },
                 {
                     "id" : 1,
                     "image_name" : "IMG_0316",
@@ -224,6 +219,11 @@
                     "id" : 10,
                     "image_name" : "IMG_0382",
                     "image_path" : "../eventCeremony/IMG_0382.JPG"
+                },
+                {
+                    "id" : 11,
+                    "image_name" : "IMG_0313",
+                    "image_path" : "../eventCeremony/IMG_0313.JPG"
                 }
             ],
             "description" : ""
@@ -236,11 +236,6 @@
             "location" : "Private",
             "year" : "2019",
             "images" : [
-                {
-                    "id" : 0,
-                    "image_name" : "IMG_0315",
-                    "image_path" : "../eventTskhneti/IMG_0315.JPG"
-                },
                 {
                     "id" : 1,
                     "image_name" : "IMG_0346",
@@ -277,24 +272,29 @@
                     "image_path" : "../eventTskhneti/IMG_6325.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 8,
                     "image_name" : "IMG_6327",
                     "image_path" : "../eventTskhneti/IMG_6327.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 9,
                     "image_name" : "IMG_6328",
                     "image_path" : "../eventTskhneti/IMG_6328.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 10,
                     "image_name" : "IMG_6350",
                     "image_path" : "../eventTskhneti/IMG_6350.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 11,
                     "image_name" : "IMG_6351",
                     "image_path" : "../eventTskhneti/IMG_6351.JPG"
+                },
+                {
+                    "id" : 12,
+                    "image_name" : "IMG_0315",
+                    "image_path" : "../eventTskhneti/IMG_0315.JPG"
                 }
                 
             ],
@@ -308,11 +308,6 @@
             "location" : "Private",
             "year" : "2020",
             "images" : [
-                {
-                    "id" : 0,
-                    "image_name" : "IMG_6339",
-                    "image_path" : "../wavkisi/IMG_6339.JPG"
-                },
                 {
                     "id" : 1,
                     "image_name" : "IMG_6340",
@@ -329,54 +324,59 @@
                     "image_path" : "../wavkisi/IMG_6342.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 4,
                     "image_name" : "IMG_6344",
                     "image_path" : "../wavkisi/IMG_6344.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 5,
                     "image_name" : "IMG_6345",
                     "image_path" : "../wavkisi/IMG_6345.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 6,
                     "image_name" : "IMG_6346",
                     "image_path" : "../wavkisi/IMG_6346.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 7,
                     "image_name" : "IMG_6348",
                     "image_path" : "../wavkisi/IMG_6348.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 8,
                     "image_name" : "IMG_6349",
                     "image_path" : "../wavkisi/IMG_6349.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 9,
                     "image_name" : "IMG_8511",
                     "image_path" : "../wavkisi/IMG_8511.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 10,
                     "image_name" : "IMG_8512",
                     "image_path" : "../wavkisi/IMG_8512.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 11,
                     "image_name" : "IMG_8513",
                     "image_path" : "../wavkisi/IMG_8513.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 12,
                     "image_name" : "IMG_8514",
                     "image_path" : "../wavkisi/IMG_8514.JPG"
                 },
                 {
-                    "id" : 0,
+                    "id" : 13,
                     "image_name" : "IMG_8515",
                     "image_path" : "../wavkisi/IMG_8515.JPG"
+                },
+                {
+                    "id" : 14,
+                    "image_name" : "IMG_6339",
+                    "image_path" : "../wavkisi/IMG_6339.JPG"
                 }
             ],
             "description" : ""
@@ -389,11 +389,6 @@
             "location" : "Opera",
             "year" : "2021",
             "images" : [
-                {
-                    "id" : 0,
-                    "image_name" : "IMG_0015",
-                    "image_path" : "../dishes/IMG_0015.JPG"
-                },
                 {
                     "id" : 1,
                     "image_name" : "IMG_0020",
@@ -603,6 +598,11 @@
                     "id" : 42,
                     "image_name" : "IMG_6063",
                     "image_path" : "../dishes/IMG_6063.JPG"
+                },
+                {
+                    "id" : 43,
+                    "image_name" : "IMG_0015",
+                    "image_path" : "../dishes/IMG_0015.JPG"
                 }
             ],
             "description" : ""

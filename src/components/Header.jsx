@@ -17,8 +17,8 @@ function Header() {
             {/* Navigation Links - visible on large screens */}
             <div className="hidden md:flex space-x-4">
               <a href="/" className="text-white hover:text-gray-300">Home</a>
-              <a href="/services" className="text-white hover:text-gray-300">Service</a>
-              <a href="#" className="text-white hover:text-gray-300">Portfolio</a>
+              <a href="/services" className="text-white hover:text-gray-300">Services</a>
+              <a href="/portfolio" className="text-white hover:text-gray-300">Portfolio</a>
               <a href="#" className="text-white hover:text-gray-300">Contact</a>
               <a href="#" className="text-white hover:text-gray-300">Language</a>
             </div>
@@ -37,10 +37,11 @@ function Header() {
           {isMobileMenuOpen && (
             <div className="md:hidden">
               <div className="flex flex-col items-center space-y-4 py-4">
-                <a href="#" className="text-white hover:text-gray-300">Home</a>
-                <a href="#" className="text-white hover:text-gray-300">About</a>
-                <a href="#" className="text-white hover:text-gray-300">Services</a>
+                <a href="/" className="text-white hover:text-gray-300">Home</a>
+                <a href="/services" className="text-white hover:text-gray-300">Services</a>
+                <a href="/portfolio" className="text-white hover:text-gray-300">Portfolio</a>
                 <a href="#" className="text-white hover:text-gray-300">Contact</a>
+                <a href="#" className="text-white hover:text-gray-300">Language</a>
               </div>
             </div>
           )}
