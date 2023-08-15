@@ -121,13 +121,13 @@
                 },
                 {
                     "imageId" : 5,
-                    "image_name" : "IMG_0386",
-                    "image_path" : "../diplomatsDay/IMG_0386.JPG"
+                    "image_name" : "IMG_0786",
+                    "image_path" : "../diplomatsDay/IMG_0786.JPG"
                 },
                 {
                     "imageId" : 6,
-                    "image_name" : "IMG_0388",
-                    "image_path" : "../diplomatsDay/IMG_0388.JPG"
+                    "image_name" : "IMG_0788",
+                    "image_path" : "../diplomatsDay/IMG_0788.JPG"
                 },
                 {
                     "imageId" : 7,
@@ -146,8 +146,8 @@
                 },
                 {
                     "imageId" : 10,
-                    "image_name" : "IMG_6329",
-                    "image_path" : "../diplomatsDay/IMG_6329.JPG"
+                    "image_name" : "IMG_6229",
+                    "image_path" : "../diplomatsDay/IMG_6239.JPG"
                 },
                 {
                     "imageId" : 11,
@@ -217,8 +217,8 @@
                 },
                 {
                     "id" : 10,
-                    "image_name" : "IMG_0382",
-                    "image_path" : "../eventCeremony/IMG_0382.JPG"
+                    "image_name" : "IMG_0782",
+                    "image_path" : "../eventCeremony/IMG_0782.JPG"
                 },
                 {
                     "id" : 11,
@@ -253,18 +253,18 @@
                 },
                 {
                     "id" : 4,
-                    "image_name" : "IMG_1380",
-                    "image_path" : "../eventTskhneti/IMG_1380.JPG"
+                    "image_name" : "IMG_1280",
+                    "image_path" : "../eventTskhneti/IMG_1280.JPG"
                 },
                 {
                     "id" : 5,
-                    "image_name" : "IMG_1382",
-                    "image_path" : "../eventTskhneti/IMG_1382.JPG"
+                    "image_name" : "IMG_1282",
+                    "image_path" : "../eventTskhneti/IMG_1282.JPG"
                 },
                 {
                     "id" : 6,
-                    "image_name" : "IMG_1385",
-                    "image_path" : "../eventTskhneti/IMG_1385.JPG"
+                    "image_name" : "IMG_1285",
+                    "image_path" : "../eventTskhneti/IMG_1285.JPG"
                 },
                 {
                     "id" : 7,
