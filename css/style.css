@@ -2246,6 +2246,17 @@ opacity: 0.8;
 }
 
 
+/* Set the color to black and remove the underline for the link */
+.col-contact-info a.addres-link {
+  color: black;
+  text-decoration: none;
+}
+
+/* Set the color of the heading to black */
+.col-contact-info h3 {
+  color: black;
+}
+
 
 /* 4.3 Section About */
 
