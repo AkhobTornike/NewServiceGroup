@@ -2954,5 +2954,7 @@ opacity: 0.8;
 }
 
 
-
+link[rel="shortcut icon"] {
+  transform: rotate(-90deg);
+}
 
