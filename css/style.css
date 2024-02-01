@@ -692,6 +692,15 @@ a.brand:focus{
   text-transform: uppercase;
 }
 
+.english-style {
+  float: right;
+  margin-top: -0.5;
+  margin-right: 15rem;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
 .navigation ul{
   list-style: none;
 }
